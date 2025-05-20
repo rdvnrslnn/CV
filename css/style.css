@@ -44,9 +44,9 @@ body {
 .container {
   max-width: 850px;
   margin: 60px auto;
-  background: transparent; /* beyaz değil, saydam */
+  background: transparent;
   padding: 30px 40px;
-  color:black; /* metinleri açık renk yap */
+  color:black; 
 }
 
 
