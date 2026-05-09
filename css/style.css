@@ -163,5 +163,11 @@ h2 i {
 .footer a:hover {
   text-decoration: underline;
 }
+html {
+    scroll-behavior: smooth; /* Sayfanın yavaşça kaymasını sağlar, daha şık durur */
+}
 
+section, div[id] {
+    scroll-margin-top: 80px; /* Menü çubuğunun yüksekliğine göre burayı 70px-100px arası ayarlayabilirsin */
+}
 
